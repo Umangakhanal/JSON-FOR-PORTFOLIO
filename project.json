@@ -1,7 +1,7 @@
      [
       {
         "title": "Nike clone webpage",
-        "image": "/code.PNG", 
+        "image": "https://images.unsplash.com/photo-1607706189992-eae578626c86?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D", 
         "description": "A clone webpage of nike shoes which is made by  using html and css as learning purpose which is my first project.",
         "skills": ["HTML", "CSS"],
         "demo": "https://nike-assignment-six.vercel.app/",
@@ -10,7 +10,7 @@
     
       {
         "title": "Digital Clock",
-        "image": "/code.PNG",
+        "image": "https://images.unsplash.com/photo-1607706189992-eae578626c86?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "description": "A simple digital clock made using html, css and javaScript as a fun activity in my learning journey.",
         "skills": ["HTML", "CSS", "JavaScript"],
         "demo": "https://digital-clock-ochre-phi.vercel.app/",
