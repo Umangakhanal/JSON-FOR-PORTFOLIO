@@ -23,7 +23,7 @@
                "description": "Memory Game – A React-based interactive card-matching game designed to test and improve memory skills. It uses efficient state management for game logic, smooth UI updates for a responsive experience, and engaging animations to keep users entertained.",
                "skills": ["React","CSS"],
                "demo":"https://umanga-memory-game.netlify.app/",
-               "source_code":"https://github.com/Umanga01223/Memory-Game.git",
+               "source_code":"https://github.com/Umanga01223/Memory-Game.git"
           }
       
     ]
